@@ -1,0 +1,14 @@
+C:\Users\kassa\Google Drive\Documents\dotnet_test\bin\Debug\netcoreapp2.1\dotnet_test.deps.json
+C:\Users\kassa\Google Drive\Documents\dotnet_test\bin\Debug\netcoreapp2.1\dotnet_test.runtimeconfig.json
+C:\Users\kassa\Google Drive\Documents\dotnet_test\bin\Debug\netcoreapp2.1\dotnet_test.runtimeconfig.dev.json
+C:\Users\kassa\Google Drive\Documents\dotnet_test\bin\Debug\netcoreapp2.1\dotnet_test.dll
+C:\Users\kassa\Google Drive\Documents\dotnet_test\bin\Debug\netcoreapp2.1\dotnet_test.pdb
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.csprojAssemblyReference.cache
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.csproj.CoreCompileInputs.cache
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.RazorAssemblyInfo.cache
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.RazorAssemblyInfo.cs
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.AssemblyInfoInputs.cache
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.AssemblyInfo.cs
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.RazorTargetAssemblyInfo.cache
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.dll
+C:\Users\kassa\Google Drive\Documents\dotnet_test\obj\Debug\netcoreapp2.1\dotnet_test.pdb
