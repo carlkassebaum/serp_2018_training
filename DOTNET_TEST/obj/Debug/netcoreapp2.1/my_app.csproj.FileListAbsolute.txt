@@ -1,0 +1,14 @@
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.csprojAssemblyReference.cache
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.csproj.CoreCompileInputs.cache
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.RazorAssemblyInfo.cache
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.RazorAssemblyInfo.cs
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.AssemblyInfoInputs.cache
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.AssemblyInfo.cs
+C:\Users\doddi\Documents\dot_net_application\my_app\bin\Debug\netcoreapp2.1\my_app.deps.json
+C:\Users\doddi\Documents\dot_net_application\my_app\bin\Debug\netcoreapp2.1\my_app.runtimeconfig.json
+C:\Users\doddi\Documents\dot_net_application\my_app\bin\Debug\netcoreapp2.1\my_app.runtimeconfig.dev.json
+C:\Users\doddi\Documents\dot_net_application\my_app\bin\Debug\netcoreapp2.1\my_app.dll
+C:\Users\doddi\Documents\dot_net_application\my_app\bin\Debug\netcoreapp2.1\my_app.pdb
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.RazorTargetAssemblyInfo.cache
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.dll
+C:\Users\doddi\Documents\dot_net_application\my_app\obj\Debug\netcoreapp2.1\my_app.pdb
