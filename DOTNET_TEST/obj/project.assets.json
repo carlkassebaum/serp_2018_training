@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kassa\\Google Drive\\Documents\\dotnet_test\\dotnet_test.csproj",
+      "projectUniqueName": "c:\\Users\\kassa\\Google Drive\\Documents\\dotnet_test\\DOTNET_TEST\\dotnet_test.csproj",
       "projectName": "dotnet_test",
-      "projectPath": "C:\\Users\\kassa\\Google Drive\\Documents\\dotnet_test\\dotnet_test.csproj",
+      "projectPath": "c:\\Users\\kassa\\Google Drive\\Documents\\dotnet_test\\DOTNET_TEST\\dotnet_test.csproj",
       "packagesPath": "C:\\Users\\kassa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kassa\\Google Drive\\Documents\\dotnet_test\\obj\\",
+      "outputPath": "c:\\Users\\kassa\\Google Drive\\Documents\\dotnet_test\\DOTNET_TEST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
