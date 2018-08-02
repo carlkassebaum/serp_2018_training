@@ -1,3 +1,5 @@
+//The concepts here could be very useful for testing purposes!
+
 import { InMemoryDbService } from 'angular-in-memory-web-api';
 
 //The in memory data service simply hosts a database in memory. It intercepts http requests and responds

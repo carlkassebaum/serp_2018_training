@@ -30,6 +30,8 @@ export class HeroSearchComponent implements OnInit {
   }
  
   ngOnInit(): void {
+    //This operation returns an observable object, which is the 
+    //resulting set of searchTerms
     this.heroes$ = this.searchTerms.pipe(
       // wait 300ms after each keystroke before considering the term
       debounceTime(300),
@@ -38,7 +40,9 @@ export class HeroSearchComponent implements OnInit {
       distinctUntilChanged(),
  
       // switch to new search observable each time the term changes
+      // Only terms which qualify the debounceTime and distinctUntilChanged()
+      // switchMap preserves the ordering of Observable operations! 
       switchMap((term: string) => this.heroService.searchHeroes(term)),
-    );
+    )
   }
 }

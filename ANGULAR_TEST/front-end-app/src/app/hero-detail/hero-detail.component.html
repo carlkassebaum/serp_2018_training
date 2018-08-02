@@ -5,8 +5,12 @@
   <div><span>id: </span>{{hero.id}}</div>
   <div>
     <label>name:
+      <!-- the [(ngModel)] attribute allows for the hero.name attribute to be udpdated on the fly -->
+      <!-- the angular object instance is actually updated as the user types -->
+      <!-- this is why the save button works! -->
       <input [(ngModel)]="hero.name" placeholder="name"/>
     </label>
   </div>
 </div>
+<!-- calls on the save method described in the heroes detial controller -->
 <button (click)="save()">save</button>

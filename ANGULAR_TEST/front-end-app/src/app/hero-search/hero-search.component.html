@@ -1,10 +1,15 @@
 <div id="search-component">
   <h4>Hero Search</h4>
- 
+  
+  <!-- creates a new input field as a search box. It can be referred to with
+  #searchBox, as it is declared with #searchBox -->
   <input #searchBox id="search-box" (keyup)="search(searchBox.value)" />
  
   <ul class="search-result">
+    <!-- iterate over all heroes. $ is a naming convention for observable objects,
+    and | async automatically subscribes to the observable object. -->
     <li *ngFor="let hero of heroes$ | async" >
+      <!-- on click, route to the specific hero -->
       <a routerLink="/detail/{{hero.id}}">
         {{hero.name}}
       </a>

@@ -1,10 +1,13 @@
 <h3>Top Heroes</h3>
 <div class="grid grid-pad">
+  <!-- Iterate over the heroes list, using "hero" as the place holder variable -->
   <a *ngFor="let hero of heroes" class="col-1-4" routerLink="/detail/{{hero.id}}">
     <div class="module hero">
+      <!-- using hero from *ngFor -->
       <h4>{{hero.name}}</h4>
     </div>
   </a>
 </div>
 
+<!-- Display the app-hero-search component here -->
 <app-hero-search></app-hero-search>
