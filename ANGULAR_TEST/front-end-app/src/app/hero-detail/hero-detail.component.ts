@@ -34,9 +34,9 @@ export class HeroDetailComponent implements OnInit {
   }
 
   getHero(): void {
+    let id: number;
     //Get the id from the params of the route. "+" converts the string to an int
-    const id = +this.route.snapshot.paramMap.get('id');
-
+    this.route.paramMap.subscribe(pmap => id = +pmap.get('id'));
     //Call on getHero, using an asynchronous get operation. 
     this.heroService.getHero(id)
       //Callback initialises the hero parameter
