@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\dashboard"
+    "\\src"
   ],
-  "SelectedNode": "\\src\\app\\dashboard\\dashboard.component.spec.ts",
+  "SelectedNode": "\\package-lock.json",
   "PreviewInSolutionExplorer": false
 }
